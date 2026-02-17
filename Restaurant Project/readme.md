@@ -28,8 +28,7 @@ Features:
 ## 📁 Project Files (Google Drive)
 Due to GitHub file size limitations, the files and datasets are stored in Google Drive.
 
-🔗 Access project files here:
-https://drive.google.com/drive/folders/1fs7KU8uRGsz0k7W4Th_kwqaxyoGyLJ6m?usp=drive_link
+🔗 [Access project files here](https://drive.google.com/drive/folders/1fs7KU8uRGsz0k7W4Th_kwqaxyoGyLJ6m?usp=drive_link)
 
 ## 💡 Key Insights
 
